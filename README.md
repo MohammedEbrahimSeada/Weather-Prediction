@@ -1,6 +1,6 @@
-# WeatherProb - NASA Earth Observation Weather Probability Analysis
+# Rain-Sight - From Space to Your Schedule
 
-A comprehensive web application that uses NASA Earth observation data to estimate the likelihood of specific weather conditions for user-selected locations and dates. This tool helps users plan outdoor events like hiking, fishing, vacations, or festivals by analyzing historical weather patterns.
+A comprehensive web application that uses NASA Earth observation data to estimate the likelihood of specific weather conditions for user-selected locations and dates. Rain-Sight helps users plan outdoor events like hiking, fishing, vacations, or festivals by analyzing historical weather patterns.
 
 ## Features
 
@@ -266,7 +266,3 @@ For application issues:
 ---
 
 **Note**: This application uses mock data for demonstration. Connect to real NASA APIs before deploying to production.
-#   W e a t h e r - P r e d i c t i o n  
- #   W e a t h e r - P r e d i c t i o n  
- #   W e a t h e r - P r e d i c t i o n  
- 
